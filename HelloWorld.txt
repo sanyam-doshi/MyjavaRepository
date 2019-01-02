@@ -10,7 +10,7 @@ public static void main(String args[])
 		{
 
 		Sysout("Hello World!!!!")
-		obj.myMethod();
+		obj.welcome();
 
 		}
 }
