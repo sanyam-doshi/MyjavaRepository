@@ -1,9 +1,16 @@
 class HelloWorld{
+
+public void myMethod(){
+	sysout("hiii...");
+
+}		
 	
-public static void myMethod(String args[])
+
+public static void main(String args[])
 		{
 
-		Sysout("Hello World!!!!");
+		Sysout("Hello World!!!!")
+		obj.myMethod();
 
 		}
 }
