@@ -3,7 +3,8 @@ class HelloWorld{
 public static void myMethod(String args[])
 		{
 
-		Sysout("Hello World!!!!");
+		Sysout("Hello World!!!!")
+		obj.myMethod();
 
 		}
 }
